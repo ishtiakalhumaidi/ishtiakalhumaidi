@@ -1,5 +1,5 @@
 <p align="center">
-  <a href="https://ishtiak.pages.dev/" target="_blank">
+  <a href="https://ishtiakalhumaidi.netlify.app/" target="_blank">
   <img src="https://raw.githubusercontent.com/ishtiak13/ishtiak13/main/ishtiakalhumaidi.gif" alt="Ishtiak GitHub Banner" />
 </a>
 
@@ -13,7 +13,7 @@
 - 💼 **Role:** Full Stack Developer
 - 📍 **Location:** Dhaka, Bangladesh
 - 📧 **Email:** [ishtiakalhumaidi@gmail.com](mailto:ishtiakalhumaidi@gmail.com)
-
+- 🌐 **Portfolio:** [https://ishtiakalhumaidi.netlify.app/](https://ishtiakalhumaidi.netlify.app/)
 ---
 
 ## 🛠 Technical Skills
