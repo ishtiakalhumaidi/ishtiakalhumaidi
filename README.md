@@ -13,7 +13,7 @@
 - 💼 **Role:** Full Stack Developer
 - 📍 **Location:** Dhaka, Bangladesh
 - 📧 **Email:** [ishtiakalhumaidi@gmail.com](mailto:ishtiakalhumaidi@gmail.com)
-- 🌐 **Portfolio:** [https://ishtiakalhumaidi.netlify.app/](https://ishtiakalhumaidi.netlify.app/)
+- 🌐 **Portfolio:** [http://ishtiak.vercel.app/](http://ishtiak.vercel.app/)
 
 ---
 
