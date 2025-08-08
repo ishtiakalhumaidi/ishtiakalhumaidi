@@ -1,6 +1,6 @@
 <p align="center">
-  <a href="https://ishtiakalhumaidi.netlify.app/" target="_blank">
-  <img src="https://raw.githubusercontent.com/ishtiak13/ishtiak13/main/ishtiakalhumaidi.gif" alt="Ishtiak GitHub Banner" />
+  <a href="http://ishtiak.vercel.app/" target="_blank">
+  <img src="https://raw.githubusercontent.com/ishtiakalhumaidi/ishtiakalhumaidi/main/ishtiakalhumaidi.svg" alt="Ishtiak GitHub Banner" />
 </a>
 
 </p>
@@ -14,6 +14,7 @@
 - 📍 **Location:** Dhaka, Bangladesh
 - 📧 **Email:** [ishtiakalhumaidi@gmail.com](mailto:ishtiakalhumaidi@gmail.com)
 - 🌐 **Portfolio:** [https://ishtiakalhumaidi.netlify.app/](https://ishtiakalhumaidi.netlify.app/)
+
 ---
 
 ## 🛠 Technical Skills
