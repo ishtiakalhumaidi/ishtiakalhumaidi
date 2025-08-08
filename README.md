@@ -61,19 +61,19 @@
 - Develop full-stack web applications using the MERN stack and Firebase
 - Focus on clean code, performance, and responsive user experiences
 
-### 🔹 Open Source Contributor
+<!-- ### 🔹 Open Source Contributor
 
 **December 2024 – Present**
 
 - Contribute to open-source projects on GitHub
 - Collaborate with developers worldwide
-- [View my contributions](https://github.com/ishtiak13)
+- [View my contributions](https://github.com/ishtiakalhumaidi) -->
 
 ---
 
 ## 📬 Connect With Me
 
-<a href="https://www.linkedin.com/in/its-ishtiak" target="_blank">
+<a href="https://www.linkedin.com/in/ishtiakalhumaidi" target="_blank">
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linkedin/linkedin-original.svg" alt="LinkedIn profile" width="40" height="40"/>
 </a>
 <a href="mailto:ishtiakalhumaidi@gmail.com" target="_blank">
@@ -86,7 +86,7 @@
 
 <br />
 <p align="center">
- <img src="https://streak-stats.demolab.com?user=Ishtiak13&theme=transparent&hide_border=true" alt="GitHub Streak" />
+ <img src="https://streak-stats.demolab.com?user=ishtiakalhumaidi&theme=transparent&hide_border=true" alt="GitHub Streak" />
 </p>
 
 ## 📊 GitHub Analytics
@@ -94,9 +94,9 @@
 <div align="center">
 
 <!-- Detailed Analytics Cards (minimal colors) -->
-<img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=Ishtiak13&theme=github_dark" alt="Profile Details" />
-<img src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=Ishtiak13&theme=github_dark" alt="Repos per Language" />
-<img src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=Ishtiak13&theme=github_dark" alt="Most Commit Language" />
+<img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=ishtiakalhumaidi&theme=github_dark" alt="Profile Details" />
+<img src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=ishtiakalhumaidi&theme=github_dark" alt="Repos per Language" />
+<img src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=ishtiakalhumaidi&theme=github_dark" alt="Most Commit Language" />
 
 </div>
 
