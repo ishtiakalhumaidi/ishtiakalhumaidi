@@ -1,6 +1,6 @@
 <p align="center">
   <a href="https://ishtiakalhumaidi.netlify.app/" target="_blank">
-  <img src="https://raw.githubusercontent.com/ishtiak13/ishtiak13/main/ishtiakalhumaidi.gif" alt="Ishtiak GitHub Banner" />
+  <img src="https://raw.githubusercontent.com/ishtiak13/ishtiak13/main/ishtiakalhumaidi.svg" alt="Ishtiak GitHub Banner" />
 </a>
 
 </p>
