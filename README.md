@@ -10,7 +10,7 @@
 
 
 
-## 📋 About Me
+## <img src="https://github.com/Anmol-Baranwal/Cool-GIFs-For-GitHub/assets/74038190/6e08afa6-3618-4c9e-8c1c-0ed8f4262bd3" width="25" />  About Me
 
 - 🎓 **Education:** B.Sc. in Computer Science & Engineering, BRAC University
 - 💼 **Role:** Full Stack Developer
