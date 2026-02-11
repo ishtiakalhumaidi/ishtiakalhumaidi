@@ -76,7 +76,7 @@
 
 ---
 
-## <img src="https://user-images.githubusercontent.com/74038190/214644145-264f4759-7633-441e-9d67-d8dda9d50d26.gif" width="30"> Connect With Me
+## <img src="https://user-images.githubusercontent.com/74038190/214644145-264f4759-7633-441e-9d67-d8dda9d50d26.gif" width="40"> Connect With Me
 
 <a href="https://www.linkedin.com/in/ishtiakalhumaidi" target="_blank">
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linkedin/linkedin-original.svg" alt="LinkedIn profile" width="40" height="40"/>
