@@ -110,3 +110,5 @@
 
 🙏 **Thank you for visiting my profile!**  
 I'm always open to collaboration and opportunities to work on meaningful projects.
+
+<img align="center" src="https://user-images.githubusercontent.com/74038190/212284094-e50ceae2-de86-4dd6-9f9c-a3ebcb3ede9e.gif" width="400">
