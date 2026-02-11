@@ -17,9 +17,10 @@
 
 ---
 
-<h2 align="left">
+<h2>
   <img src="https://user-images.githubusercontent.com/74038190/212284087-bbe7e430-757e-4901-90bf-4cd2ce3e1852.gif"
-       alt="HTML5" width="40" style="vertical-align: middle; margin-right: 8px;" />
+       width="40"
+       style="vertical-align: -6px; margin-right: 8px;" />
   Technical Skills
 </h2>
 
