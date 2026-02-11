@@ -1,9 +1,9 @@
 <p align="center">
   <a href="http://ishtiak.vercel.app/" target="_blank">
     <img src="https://github.com/user-attachments/assets/fddcdbcd-5ea2-4416-9f59-ca7fd9394aca" width="300">
-    <img src="https://user-images.githubusercontent.com/74038190/212747107-5b654ba5-31c6-4366-b42b-51b822e9bc52.gif" width="400">
   <!-- <img src="https://raw.githubusercontent.com/ishtiakalhumaidi/ishtiakalhumaidi/main/ishtiakalhumaidi.gif" alt="Ishtiak GitHub Banner" /> -->
 </a>
+    <img src="https://user-images.githubusercontent.com/74038190/212747107-5b654ba5-31c6-4366-b42b-51b822e9bc52.gif" width="400">
 
 </p>
 <img src="https://user-images.githubusercontent.com/74038190/212284115-f47cd8ff-2ffb-4b04-b5bf-4d1c14c0247f.gif"
