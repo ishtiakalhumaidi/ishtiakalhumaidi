@@ -19,8 +19,8 @@
 
 <h2>
   <img src="https://user-images.githubusercontent.com/74038190/212284087-bbe7e430-757e-4901-90bf-4cd2ce3e1852.gif"
-       width="40"
-       style="margin-top: 26px; margin-right: 8px;" />
+       width="36"
+       style="vertical-align: middle; position: relative; top: 3px; margin-right: 8px;" />
   Technical Skills
 </h2>
 
