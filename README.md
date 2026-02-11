@@ -94,7 +94,7 @@
  <img src="https://streak-stats.demolab.com?user=ishtiakalhumaidi&theme=transparent&hide_border=true" alt="GitHub Streak" />
 </p>
 
-## <img src="https://user-images.githubusercontent.com/74038190/221352987-68da234d-4d62-4e9d-9d7f-098dc657c2dc.gif" width="40"> GitHub Analytics
+## <img src="https://user-images.githubusercontent.com/74038190/221352987-68da234d-4d62-4e9d-9d7f-098dc657c2dc.gif" width="30" height="30"> GitHub Analytics
 
 <div align="center">
 
