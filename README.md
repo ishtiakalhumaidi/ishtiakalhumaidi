@@ -1,5 +1,5 @@
-<p align="center">
-  <a href="http://ishtiak.vercel.app/" target="_blank">
+<!-- <p align="center"> -->
+  <!-- <a href="http://ishtiak.vercel.app/" target="_blank"> -->
    ```
 ████████████████████████████████████████████████████████████  ██╗  ██╗███████╗██╗     ██╗      ██████╗
 ████████████████████████████████████████████████████████████  ██║  ██║██╔════╝██║     ██║     ██╔═══██╗
@@ -23,9 +23,9 @@
 ▀▀▀▀▀▀▀▀▀▀▀▀▀-     ▀▀▀▀▀▀▀▀▀▀       '╧╧╧╧╧╧╧╧╧`     ╚ ╧╧╧- ▀  ╚═╝     ╚═╝╚══════╝╚══════╝   ╚═╝        ╚═╝    ╚═════╝  ╚═════╝
 ```
   <!-- <img src="https://raw.githubusercontent.com/ishtiakalhumaidi/ishtiakalhumaidi/main/ishtiakalhumaidi.gif" alt="Ishtiak GitHub Banner" /> -->
-</a>
+<!-- </a> -->
 
-</p>
+<!-- </p> -->
     <img src="https://user-images.githubusercontent.com/74038190/212747107-5b654ba5-31c6-4366-b42b-51b822e9bc52.gif" width="100%">
 <img src="https://user-images.githubusercontent.com/74038190/212284115-f47cd8ff-2ffb-4b04-b5bf-4d1c14c0247f.gif"
      alt="Line"
