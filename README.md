@@ -1,13 +1,13 @@
 <p align="center">
   <a href="http://ishtiak.vercel.app/" target="_blank">
-  <img src="https://raw.githubusercontent.com/ishtiakalhumaidi/ishtiakalhumaidi/main/ishtiakalhumaidi.gif" alt="Ishtiak GitHub Banner" />
+    <img src="https://github.com/user-attachments/assets/fddcdbcd-5ea2-4416-9f59-ca7fd9394aca" width="300">
+  <!-- <img src="https://raw.githubusercontent.com/ishtiakalhumaidi/ishtiakalhumaidi/main/ishtiakalhumaidi.gif" alt="Ishtiak GitHub Banner" /> -->
 </a>
 
 </p>
 <img src="https://user-images.githubusercontent.com/74038190/212284115-f47cd8ff-2ffb-4b04-b5bf-4d1c14c0247f.gif"
      alt="Line"
      width="100%" />
-      <img src="https://github.com/Anmol-Baranwal/Cool-GIFs-For-GitHub/assets/74038190/324065af-8ea3-453a-83a3-66ccba5797fb" width="200">
 
 
 ## <img src="https://github.com/Anmol-Baranwal/Cool-GIFs-For-GitHub/assets/74038190/6e08afa6-3618-4c9e-8c1c-0ed8f4262bd3" width="25" />  About Me
