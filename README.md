@@ -108,7 +108,7 @@
 
 ---
 
-🙏 **Thank you for visiting my profile!**  
+ <img src="https://user-images.githubusercontent.com/74038190/226127913-88de86d3-8437-45b9-a3b6-e746b47f655a.gif" width="20">  **Thank you for visiting my profile!**  
 I'm always open to collaboration and opportunities to work on meaningful projects.
 
 <img align="center" src="https://user-images.githubusercontent.com/74038190/212284094-e50ceae2-de86-4dd6-9f9c-a3ebcb3ede9e.gif" width="400">
