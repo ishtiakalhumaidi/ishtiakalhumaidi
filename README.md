@@ -79,10 +79,10 @@
 ## <img src="https://user-images.githubusercontent.com/74038190/214644145-264f4759-7633-441e-9d67-d8dda9d50d26.gif" width="40"> Connect With Me
 
 <a href="https://www.linkedin.com/in/ishtiakalhumaidi" target="_blank">
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linkedin/linkedin-original.svg" alt="LinkedIn profile" width="40" height="40"/>
+  <img src="https://user-images.githubusercontent.com/74038190/235294012-0a55e343-37ad-4b0f-924f-c8431d9d2483.gif" alt="LinkedIn profile" width="40" height="40"/>
 </a>
 <a href="mailto:ishtiakalhumaidi@gmail.com" target="_blank">
-  <img src="https://www.svgrepo.com/show/452213/gmail.svg" alt="Email me" width="40" height="40"/>
+  <img src="https://user-images.githubusercontent.com/74038190/216122065-2f028bae-25d6-4a3c-bc9f-175394ed5011.png" alt="Email me" width="40" height="40"/>
 </a>
 
 ---
