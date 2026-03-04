@@ -1,3 +1,5 @@
+![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=28&duration=3000&pause=1000&color=00F7FF&center=true&vCenter=true&width=750&lines=Hey%2C+I'm+Ishtiak+Al+Humaidi;CSE+Student+%E2%80%A2+Aspiring+Software+Engineer;Building+with+Python%2C+TypeScript%2C+Node.js+%26+PostgreSQL;Turning+ideas+into+real+products)
+
 ```
 ████████████████████████████████████████████████████████████  ██╗  ██╗███████╗██╗     ██╗      ██████╗
 ████████████████████████████████████████████████████████████  ██║  ██║██╔════╝██║     ██║     ██╔═══██╗
