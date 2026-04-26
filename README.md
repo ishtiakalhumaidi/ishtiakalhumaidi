@@ -63,6 +63,7 @@ open_to:    Collaborations · Internships · Open Source
 <div align="center">
   <img src="https://skillicons.dev/icons?i=git,github,python,java,vscode&theme=dark&perline=5" />
 </div>
+
 ---
 
 ## <img src="https://github.com/Anmol-Baranwal/Cool-GIFs-For-GitHub/assets/74038190/f5384ba2-bf78-4be4-94be-4559c1827245" width="30" /> Experience
