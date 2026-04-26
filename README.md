@@ -51,11 +51,13 @@ open_to:    Collaborations · Internships · Open Source
 <div align="center">
   <img src="https://skillicons.dev/icons?i=html,css,js,ts,tailwind,bootstrap,react,firebase,redux&theme=dark&perline=9" />
 </div>
+
 ### ⚙️ Back-End
  
 <div align="center">
   <img src="https://skillicons.dev/icons?i=nodejs,express,mongodb,mysql,postgres&theme=dark&perline=5" />
 </div>
+
 ### 🛠️ Tools & Languages
  
 <div align="center">
