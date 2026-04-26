@@ -47,38 +47,20 @@ open_to:    Collaborations · Internships · Open Source
 ## <img src="https://user-images.githubusercontent.com/74038190/212284087-bbe7e430-757e-4901-90bf-4cd2ce3e1852.gif" alt="skills" width="25" /> Technical Skills
 
 ### 🖥️ Front-End
-
-<p align="left">
-  <img src="https://i.postimg.cc/50bm05Xh/image.png" alt="HTML5" width="40" height="40"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" alt="CSS3" width="40" height="40"/>
-  <img src="https://www.svgrepo.com/show/349419/javascript.svg" alt="JavaScript" width="40" height="40"/>
-  <img src="https://www.svgrepo.com/show/349540/typescript.svg" alt="TypeScript" width="40" height="40"/>
-  <img src="https://www.svgrepo.com/show/354431/tailwindcss-icon.svg" alt="Tailwind CSS" width="40" height="40"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/bootstrap/bootstrap-original.svg" alt="Bootstrap" width="40" height="40"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" alt="React" width="40" height="40"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/firebase/firebase-plain.svg" alt="Firebase" width="40" height="40"/>
-  <img src="https://www.svgrepo.com/show/452093/redux.svg" alt="Redux" width="40" height="40"/>
-</p>
-
+ 
+<div align="center">
+  <img src="https://skillicons.dev/icons?i=html,css,js,ts,tailwind,bootstrap,react,firebase,redux&theme=dark&perline=9" />
+</div>
 ### ⚙️ Back-End
-
-<p align="left">
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original.svg" alt="Node.js" width="40" height="40"/>
-  <img src="https://i.ibb.co.com/spgkRfLY/image.png" alt="Express.js" width="40" height="40"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mongodb/mongodb-original.svg" alt="MongoDB" width="40" height="40"/>
-  <img src="https://www.svgrepo.com/show/303251/mysql-logo.svg" alt="MySQL" width="40" height="40"/>
-</p>
-
+ 
+<div align="center">
+  <img src="https://skillicons.dev/icons?i=nodejs,express,mongodb,mysql,postgres&theme=dark&perline=5" />
+</div>
 ### 🛠️ Tools & Languages
-
-<p align="left">
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" alt="Git" width="40" height="40"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" alt="Python" width="40" height="40"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg" alt="Java" width="40" height="40"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg" alt="VS Code" width="40" height="40"/>
-  <img src="https://i.postimg.cc/j2GK6jYr/image.png" alt="GitHub" width="40" height="40"/>
-</p>
-
+ 
+<div align="center">
+  <img src="https://skillicons.dev/icons?i=git,github,python,java,vscode&theme=dark&perline=5" />
+</div>
 ---
 
 ## <img src="https://github.com/Anmol-Baranwal/Cool-GIFs-For-GitHub/assets/74038190/f5384ba2-bf78-4be4-94be-4559c1827245" width="30" /> Experience
