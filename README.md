@@ -14,11 +14,18 @@
 
 
 <br/>
-
-[![Portfolio](https://img.shields.io/badge/Portfolio-ishtiak.vercel.app-CCFF00?style=for-the-badge&logo=vercel&logoColor=black)](http://ishtiak.vercel.app/)
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/ishtiakalhumaidi)
-[![Email](https://img.shields.io/badge/Gmail-Mail_Me-EA4335?style=for-the-badge&logo=gmail&logoColor=white)](mailto:ishtiakalhumaidi@gmail.com)
-
+<!-- Modern social links using skillicons.dev -->
+<a href="https://www.linkedin.com/in/ishtiakalhumaidi" target="_blank">
+  <img src="https://skillicons.dev/icons?i=linkedin" height="40" alt="LinkedIn"/>
+</a>
+&nbsp;
+<a href="mailto:ishtiakalhumaidi@gmail.com" target="_blank">
+  <img src="https://skillicons.dev/icons?i=gmail" height="40" alt="Gmail"/>
+</a>
+&nbsp;
+<a href="http://ishtiak.vercel.app/" target="_blank">
+  <img src="https://skillicons.dev/icons?i=vercel" height="40" alt="Portfolio"/>
+</a>
 </div>
 
 ---
