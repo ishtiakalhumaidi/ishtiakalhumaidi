@@ -13,21 +13,6 @@
 ![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=28&duration=3000&pause=1000&color=CCFF00&center=true&vCenter=true&width=750&lines=Hey%2C+I'm+Ishtiak+Al+Humaidi;CSE+Student+%E2%80%A2+Aspiring+Software+Engineer;Python%2C+TypeScript%2C+Node.js+%26+PostgreSQL;Turning+ideas+into+real+products)
 
 
-<br/>
-<!-- Modern social links using skillicons.dev -->
-<a href="https://www.linkedin.com/in/ishtiakalhumaidi" target="_blank">
-  <img src="https://skillicons.dev/icons?i=linkedin" height="40" alt="LinkedIn"/>
-</a>
-&nbsp;
-<a href="mailto:ishtiakalhumaidi@gmail.com" target="_blank">
-  <img src="https://skillicons.dev/icons?i=gmail" height="40" alt="Gmail"/>
-</a>
-&nbsp;
-<a href="http://ishtiak.vercel.app/" target="_blank">
-  <img src="https://skillicons.dev/icons?i=vercel" height="40" alt="Portfolio"/>
-</a>
-</div>
-
 ---
 
 ## <img src="https://github.com/Anmol-Baranwal/Cool-GIFs-For-GitHub/assets/74038190/6e08afa6-3618-4c9e-8c1c-0ed8f4262bd3" width="25" /> About Me
