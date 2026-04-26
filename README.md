@@ -79,13 +79,19 @@ open_to:    Collaborations · Internships · Open Source
 
 ## <img src="https://user-images.githubusercontent.com/74038190/214644145-264f4759-7633-441e-9d67-d8dda9d50d26.gif" width="40" /> Connect With Me
 
+<div align="center">
 <a href="https://www.linkedin.com/in/ishtiakalhumaidi" target="_blank">
-  <img src="https://user-images.githubusercontent.com/74038190/235294012-0a55e343-37ad-4b0f-924f-c8431d9d2483.gif" alt="LinkedIn" width="50" height="50"/>
+  <img src="https://skillicons.dev/icons?i=linkedin" height="48" alt="LinkedIn"/>
 </a>
-&nbsp;
+&nbsp;&nbsp;
 <a href="mailto:ishtiakalhumaidi@gmail.com" target="_blank">
-  <img src="https://user-images.githubusercontent.com/74038190/216122065-2f028bae-25d6-4a3c-bc9f-175394ed5011.png" alt="Email" width="50" height="50"/>
+  <img src="https://skillicons.dev/icons?i=gmail" height="48" alt="Gmail"/>
 </a>
+&nbsp;&nbsp;
+<a href="http://ishtiak.vercel.app/" target="_blank">
+  <img src="https://skillicons.dev/icons?i=vercel" height="48" alt="Portfolio"/>
+</a>
+</div>
 
 ---
 
