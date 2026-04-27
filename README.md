@@ -35,7 +35,7 @@ open_to:    Collaborations · Internships · Open Source
 ### 🖥️ Front-End
  
 <div align="center">
-  <img src="https://skillicons.dev/icons?i=html,css,js,ts,tailwind,bootstrap,react,firebase,redux&theme=dark&perline=9" />
+  <img src="https://skillicons.dev/icons?i=html,css,js,ts,tailwind,bootstrap,react,firebase,redux,nextjs&theme=dark&perline=9" />
 </div>
 
 ### ⚙️ Back-End
