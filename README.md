@@ -20,11 +20,11 @@
 
 ```yaml
 name:       Ishtiak Al Humaidi
-role:       Full Stack Developer
+role:       Software Engineer
 education:  B.Sc. CSE — BRAC University
 location:   Dhaka, Bangladesh 🇧🇩
 email:      ishtiakalhumaidi@gmail.com
-portfolio:  http://ishtiak.vercel.app/
+portfolio:  http://ishtiak.vercel.app
 open_to:    Collaborations · Internships · Open Source
 ```
 
